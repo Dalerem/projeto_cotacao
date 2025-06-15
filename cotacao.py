@@ -1,17 +1,5 @@
 import requests
 
-"""
-    Requisição de API de cotações
-
-    Autohr: Dálerem Teixeira
-    E-mail: dalerem2022@gmail.com
-    Rede_social: https://www.linkedin.com/in/d%C3%A1lerem-teixeira-949a48236/
-"""
-
-__author__ = "Dálerem Teixeira"
-__Email__ = "dalerem2022@gmail.com"
-__redesocial__ = "https://www.linkedin.com/in/d%C3%A1lerem-teixeira-949a48236/"
-
 class Requisicao_api:
     """
         Classe de Requisição de api
